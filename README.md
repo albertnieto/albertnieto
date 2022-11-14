@@ -9,7 +9,7 @@
 	- [A Telegram bot made in DRF](https://github.com/albertnieto/django-rest-telegram-bot "A Telegram bot made in DRF")
 - 📫 How to reach me:
 	- [LinkedIn](https://www.linkedin.com/in/albert-nieto/ "LinkedIn")
-	- [albertnieto.es](http://albertnieto.es "albertnieto.es")
+	- [albertnieto.es](https://albertnieto.es "albertnieto.es")
 
 <!--
 **albertnieto/albertnieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
