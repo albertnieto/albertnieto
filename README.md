@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I am using GitHub.
+
+------------
+
+
 - 🔭 I'm currently working on 
 	- [My porfolio website](https://github.com/albertnieto/niet "my personal website")
 	- [Fluento](https://www.fluento.net/ "Fluento")
